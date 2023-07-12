@@ -315,7 +315,7 @@ template {
 
 @font-face {
   font-family: "Source Sans Pro";
-  src: url("../fonts/Source-sans-pro/SourceSansPro-BoldIt.otf");
+  src: url("fonts/source-sans-pro/SourceSansPro-BoldIt.otf");
   font-weight: bold; }
 
 /*base*/
